@@ -3,3 +3,23 @@ div {
     text-align: center;
     color: #8f5e5e;
   }
+
+.one {
+  background: pink;
+}
+
+.two {
+  background: rgb(161, 123, 130);
+}
+
+.three {
+  background: rgb(105, 76, 81);
+}
+
+.four {
+  background: rgb(85, 47, 54);
+}
+
+.footer{
+  background: rgb(194, 97, 113);
+}
