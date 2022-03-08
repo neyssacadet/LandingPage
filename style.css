@@ -11,10 +11,14 @@ div {
 
 .two {
   background: rgb(161, 123, 130);
+  padding: 100px;
 }
 
 .three {
   background: rgb(105, 76, 81);
+  color: white;
+  font-size: 20px;
+  padding: 100px;
 }
 
 .four {
