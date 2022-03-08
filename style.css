@@ -1,24 +1,30 @@
+.body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 .one {
-  padding: 40px;
+  padding: 150px;
   background: rgb(250, 196, 223);
+  height: 100%;
 }
 
 .two {
-  padding: 40px;
+  padding: 100px;
   background: rgb(248, 142, 195);
 }
 
 .three {
-  padding: 40px;
+  padding: 100px;
   background: rgb(247, 118, 182);
 }
 
 .four {
-  padding: 40px;
+  padding: 80px;
   background: hotpink;
 }
 
 .footer {
-  padding: 40px;
+  padding: 15px;
   background: rgb(233, 18, 125);
 }
