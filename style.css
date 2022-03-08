@@ -1,9 +1,8 @@
-div {
-    padding: 125px;
-    margin: -68px;
-    text-align: center;
-    color: #8f5e5e;
-  }
+.flex-container {
+  padding: 30px;
+  text-align: center;
+  margin: 100px;
+}
 
 .one {
   background: pink;
@@ -11,23 +10,19 @@ div {
 
 .two {
   background: rgb(161, 123, 130);
-  padding: 100px;
 }
 
 .three {
-  background: rgb(105, 76, 81);
+  background: rgb(223, 103, 123);
   color: white;
   font-size: 20px;
-  padding: 100px;
 }
 
 .four {
-  background: rgb(85, 47, 54);
+  background: rgb(192, 52, 78);
 }
 
 .footer{
-  padding: 10px;
-  margin-top: 55px;
   background: rgb(194, 97, 113);
   color: white;
   font-size: 10px;
