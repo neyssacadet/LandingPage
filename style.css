@@ -16,7 +16,11 @@
 
 .three {
   padding: 100px;
-  background: rgb(247, 118, 182);
+  padding-right: 150px;
+  padding-left: 150px;
+  background: rgb(243, 106, 174);
+  font-size: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .four {
@@ -26,6 +30,7 @@
   background: hotpink;
   border: 5px solid hotpink;
   border-radius: 25px;
+  text-align: left;
 }
 
 .footer {
