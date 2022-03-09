@@ -12,6 +12,20 @@
 .two {
   padding: 100px;
   background: rgb(248, 142, 195);
+  text-align: center;
+}
+.box {
+  float: right;
+  padding: 15px;
+  background: white;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: auto;
+  height: 10px;
+  margin: 50px;
+}
+* {
+  box-sizing: border-box;
 }
 
 .three {
@@ -26,10 +40,10 @@
 .four {
   color: white;
   margin: 100px;
-  padding: 50px;
+  padding: 20px;
   background: hotpink;
   border: 5px solid hotpink;
-  border-radius: 25px;
+  border-radius: 10px;
   text-align: left;
 }
 
