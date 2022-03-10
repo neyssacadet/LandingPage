@@ -13,8 +13,11 @@
   padding: 100px;
   background: rgb(248, 142, 195);
   text-align: center;
-
-
+}
+.img {
+  height: 5px;
+  width: 5px;
+}
 
 .three {
   padding: 100px;
@@ -22,7 +25,8 @@
   padding-left: 150px;
   background: rgb(243, 106, 174);
   font-size: 20px;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 .four {
