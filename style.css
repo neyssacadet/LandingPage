@@ -9,13 +9,13 @@
   height: 100%;
 }
 
-.two {
+.two{
   padding: 100px;
   background: rgb(248, 142, 195);
-  text-align: center;
-}
-img {
-  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  justify-content: center;
 }
 
 .three {
