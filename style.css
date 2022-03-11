@@ -3,7 +3,8 @@
   overflow-x: hidden;
 }
 .navigation {
-  background: rgb(250, 196, 223);
+  background: black;
+  color: white;
 }
 .image {
   justify-content: flex-start;
@@ -18,15 +19,22 @@
 
 .one {
   padding: 150px;
-  background: rgb(250, 196, 223);
+  background: black;
+  color: white;
   height: 100%;
   display: flex;
   gap: 500px;
 }
 
+#title{
+  text-align: center;
+  background: white;
+  padding-top: 20px;
+  margin: 0%;
+}
 .two{
   padding: 100px;
-  background: rgb(248, 142, 195);
+  background: white;
   display: flex;
   flex-direction: row;
   gap: 50px;
@@ -37,7 +45,7 @@
   padding: 100px;
   padding-right: 150px;
   padding-left: 150px;
-  background: rgb(243, 106, 174);
+  background: rgb(233, 214, 207);
   font-size: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -47,15 +55,15 @@
   color: white;
   margin: 100px;
   padding: 20px;
-  background: hotpink;
-  border: 5px solid hotpink;
+  background: orangered;
+  border: 5px solid orangered;
   border-radius: 10px;
   text-align: left;
 }
 
 .footer {
   padding: 10px;
-  background: rgb(233, 18, 125);
+  background: black;
   color: white;
   text-align: center;
   font-size: smaller;
