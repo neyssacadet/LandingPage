@@ -2,7 +2,12 @@
   max-width: 100%;
   overflow-x: hidden;
 }
-
+.navigation {
+  display: flex;
+  gap: 50px;
+  background: rgb(250, 196, 223);
+  
+}
 .one {
   padding: 150px;
   background: rgb(250, 196, 223);
